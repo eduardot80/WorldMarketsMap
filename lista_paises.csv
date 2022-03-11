@@ -8,23 +8,31 @@ Mexico,MEX,^MXX
 United States,USA,^GSPC
 Canada,CAN,^GSPTSE
 United Kingdom,GBR,ISF.L
+Ireland,IRL,^ISEQ
 Germany,DEU,^GDAXI
+Netherlands,NLD,^AEX
+Belgium,BEL,^BFX
 France,FRA,^FCHI
 Portugal,PRT,PGAL
 Spain,ESP,^IBEX
 Italy,ITA,EWI
 Switzerland,CHE,^SSMI
+Austria,AUT,^ATX
 Poland,POL,^PTL
+Denmark,DNK,^OMXC25
 Norway,NOR,ENOR
 Sweden,SWE,^OMX
 Finland,FIN,^OMXH25
 Greece,GRC,GREK
 Russia,RUS,ERUS
 Turkey,TUR,XU100.IS
+Israel,ISR,EIS
 Egypt,EGY,EGPT
 Nigeria,NGA,NGE
 South Africa,ZAF,JSE.JO
 Saudi Arabia,SAU,KSA
+Kuwait,KWT,KWT
+Qatar,QAT,QAT
 UAE,ARE,UAE
 Pakistan,PAK,PAK
 India,IND,^NSEI
@@ -32,6 +40,7 @@ China,CHN,000001.SS
 Japan,JPN,^N225
 South Korea,KOR,EWY
 Hong Kong,HKG,^HSI
+Singapore,SGP,EWS
 Indonesia,IDN,^JKSE
 Malaysia,MYS,EWM
 Taiwan,TWN,^TWII
